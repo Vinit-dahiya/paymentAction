@@ -30,11 +30,11 @@ git push origin main
 ssh -i piet.pem ubuntu@54.184.142.1
 install docker in Ec2 machine
 
-#GitHub Secrets
+#GitHub action Secrets
 Settings → Secrets and variables → Actions
 
 DOCKER_USERNAME=cnsnoida
-DOCKER_PASSWORD=xxxxxx
+DOCKER_PASSWORD=xxxxxx  (personal token)
 
 EC2_HOST=54.xx.xx.xx
 EC2_USER=ec2-user
