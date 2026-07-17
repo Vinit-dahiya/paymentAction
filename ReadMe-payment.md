@@ -10,7 +10,7 @@ mvn javadoc:javadoc
 
 http://localhost:8088/swagger-ui/index.html
 
-# AcuatorVinit
+# AcuatorVinitdahiya
 
 http://localhost:8088/actuator/mappings
 
